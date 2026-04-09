@@ -32,6 +32,7 @@ tensorboard==2.20.0
 wandb==0.25.1
 ```
 ## 项目结构
+```bash
 ├── keqing_dataset/        # 刻晴训练数据集文件夹
 │   ├── keqing_01.png
 │   ├── keqing_01.txt
@@ -42,6 +43,6 @@ wandb==0.25.1
 │   └── ... 
 ├── inference_keqing.py
 ├── trian_keqing_lora.py
-
+```
 ## 📫 联系方式
 - 邮箱：1817265412@qq.com
