@@ -12,7 +12,8 @@
 - 工具：Git,IDEA,VS Code
 
 ## 📌 项目
-- [项目:Lora微调Diffusion]([链接](https://github.com/wswcls163/keqing_lora_diffusion/blob/main/README.MD))
+## 📌 项目
+- [Lora微调Diffusion](sslocal://flow/file_open?url=https%3A%2F%2Fgithub.com%2Fwswcls163%2Fkeqing_lora_diffusion%2Fblob%2Fmain%2FREADME.MD&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
 ## 环境
 ```python
 torch==2.3.1+cu121
