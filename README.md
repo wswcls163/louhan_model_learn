@@ -12,7 +12,7 @@
 - 工具：Git,IDEA,VS Code
 ## 📌 项目
 ## 📌 项目
-- [Lora微调Diffusion](https://github.com/wswcls163/keqing_lora_diffusion)
+- [Lora微调Diffusion](https://github.com/wswcls163/keqing_lora_diffusion/README)
 ## 环境
 ```python
 torch==2.3.1+cu121
