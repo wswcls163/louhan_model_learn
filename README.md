@@ -3,7 +3,7 @@
 # 👋 您好，我是蔡*松
 
 ## 关于我
-- 计算机专业学
+- 计算机科学与技术研一在读
 - 熟悉 Python、PyTorch
 - 对生成式模型开发感兴趣
 
@@ -11,9 +11,9 @@
 - 语言：Python
 - 工具：Git,IDEA,VS Code
 
-## 📌 精选项目
+## 📌 项目
 - [项目:Lora微调Diffusion]([链接](https://github.com/wswcls163/keqing_lora_diffusion/blob/main/README.MD))
-## 技术栈
+## 环境
 ```python
 torch==2.3.1+cu121
 torchvision==0.18.1+cu121
