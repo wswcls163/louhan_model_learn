@@ -11,8 +11,7 @@
 - 语言：Python
 - 工具：Git,IDEA,VS Code
 ## 📌 项目
-## 📌 项目
-- [Lora微调Diffusion](https://github.com/wswcls163/keqing_lora_diffusion/README)
+- 点击跳转链接：[Lora微调Diffusion](https://github.com/wswcls163/keqing_lora_diffusion)
 ## 环境
 ```python
 torch==2.3.1+cu121
