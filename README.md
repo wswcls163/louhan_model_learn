@@ -1,6 +1,6 @@
 # louhan_model_learn
 我的生产式模型学习主页
-# 👋 你好，我是蔡*松
+# 👋 您好，我是蔡*松
 
 ## 关于我
 - 计算机专业学
@@ -12,8 +12,36 @@
 - 工具：Git,IDEA,VS Code
 
 ## 📌 精选项目
-- [项目1:Lora微调Diffusion](链接) - 简要说明
-- [项目2：微信小程序](链接) - 简要说明
+- [项目:Lora微调Diffusion]([链接](https://github.com/wswcls163/keqing_lora_diffusion/blob/main/README.MD))
+## 技术栈
+```python
+torch==2.3.1+cu121
+torchvision==0.18.1+cu121
+torchaudio==2.3.1+cu121
+numpy==1.26.4
+pillow==11.3.0
+pandas==2.3.3
+accelerate==1.10.1
+tqdm==4.67.3
+transformers==4.57.6
+datasets==4.5.0
+diffusers==0.36.0
+peft==0.17.1
+huggingface_hub==0.36.2
+tensorboard==2.20.0
+wandb==0.25.1
+```
+## 项目结构
+├── keqing_dataset/        # 刻晴训练数据集文件夹
+│   ├── keqing_01.png
+│   ├── keqing_01.txt
+│   └── ... 
+├── keqing_generate/
+│   ├── keqing_generate01.png
+│   ├── keqing_generate02.png
+│   └── ... 
+├── inference_keqing.py
+├── trian_keqing_lora.py
 
 ## 📫 联系方式
 - 邮箱：1817265412@qq.com
